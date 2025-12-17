@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#F9F5FF"/>
+  <rect x="60" y="100" width="680" height="380" rx="28" fill="#F3E8FF"/>
+  <circle cx="200" cy="220" r="48" fill="#C4B5FD"/>
+  <rect x="280" y="180" width="360" height="40" rx="10" fill="#A78BFA"/>
+  <text x="120" y="520" font-size="22" fill="#3F3D56">Your Progress</text>
+</svg>
